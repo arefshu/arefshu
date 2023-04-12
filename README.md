@@ -4,7 +4,7 @@ Merhaba, Burada açık kaynak paylaşımlar yapıyorum, bir göz at derim.
 [![discord_social_arefshu](https://img.shields.io/badge/Discord-Arefshu%230001-CD5C5C)](https://discord.com/users/852609757997957172)
 [![github visitors arefshu](https://komarev.com/ghpvc/?username=Arefshu&color=CD5C5C&label=Visitors&color=CD5C5C)](https://github.com/arefshu)
 <details>
-  <summary>&nbsp; <b>Stats</b></summary>
+  <summary>&nbsp; <b>Ayrıntılar</b></summary>
   &nbsp; 
   <details>
     <summary> &nbsp; &nbsp; &nbsp; <b>GitHub Stats</b></summary>
@@ -13,7 +13,7 @@ Merhaba, Burada açık kaynak paylaşımlar yapıyorum, bir göz at derim.
   </details>
 
   <details>
-    <summary> &nbsp; &nbsp; &nbsp; <b>Discord Presence</b></summary>
+    <summary> &nbsp; &nbsp; &nbsp; <b>Discord Profil</b></summary>
     <img src="https://lanyard-profile-readme.vercel.app/api/852609757997957172?bg=0d1117">
   </details>
  </details>
