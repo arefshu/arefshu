@@ -2,7 +2,7 @@
 Merhaba, Burada açık kaynak paylaşımlar yapıyorum, bir göz at derim.
 
 [![discord_social_arefshu](https://img.shields.io/badge/Discord-Arefshu%230001-6182e1)](https://discord.com/users/852609757997957172)
-[![github visitors arefshu](https://komarev.com/ghpvc/?username=Arefshu&color=dc143c&label=Visitors&color=6182e1)](https://github.com/arefshu)
+[![github visitors arefshu](https://komarev.com/ghpvc/?username=Arefshu&color=DC143C&label=Visitors&color=6182e1)](https://github.com/arefshu)
 <details>
   <summary>&nbsp; <b>Stats</b></summary>
   &nbsp; 
