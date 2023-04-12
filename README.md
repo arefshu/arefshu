@@ -1,8 +1,8 @@
 # Arefshu
 Merhaba, Burada açık kaynak paylaşımlar yapıyorum, bir göz at derim.
 
-[![discord_social_arefshu](https://img.shields.io/badge/Discord-Arefshu%230001-6182e1)](https://discord.com/users/852609757997957172)
-[![github visitors arefshu](https://komarev.com/ghpvc/?username=Arefshu&color=CD5C5C&label=Visitors&color=6182e1)](https://github.com/arefshu)
+[![discord_social_arefshu](https://img.shields.io/badge/Discord-Arefshu%230001-CD5C5C)](https://discord.com/users/852609757997957172)
+[![github visitors arefshu](https://komarev.com/ghpvc/?username=Arefshu&color=CD5C5C&label=Visitors&color=CD5C5C)](https://github.com/arefshu)
 <details>
   <summary>&nbsp; <b>Stats</b></summary>
   &nbsp; 
