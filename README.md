@@ -14,7 +14,7 @@ Merhaba, Burada açık kaynak paylaşımlar yapıyorum, bir göz at derim.
 
   <details>
     <summary> &nbsp; &nbsp; &nbsp; <b>Discord Profil</b></summary>
-    <img src="https://lanyard-profile-readme.vercel.app/api/852609757997957172?bg=0d1117">
+    <img src="https://lanyard-profile-readme.vercel.app/api/791263097817661451?bg=0d1117">
   </details>
  </details>
  
