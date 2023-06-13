@@ -1,7 +1,7 @@
 # Arefshu
 Merhaba, Burada açık kaynak paylaşımlar yapıyorum, bir göz at derim.
 
-[![discord_social_arefshu](https://img.shields.io/badge/Discord-Arefshu%230001-CD5C5C)](https://discord.com/users/852609757997957172)
+[![discord_social_arefshu](https://img.shields.io/badge/Discord-aref1948-CD5C5C)](https://discord.com/users/791263097817661451)
 [![github visitors arefshu](https://komarev.com/ghpvc/?username=Arefshu&color=CD5C5C&label=Visitors&color=CD5C5C)](https://github.com/arefshu)
 <details>
   <summary>&nbsp; <b>Ayrıntılar</b></summary>
